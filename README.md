@@ -1,8 +1,8 @@
    =>  Template Name    : Salone - Beauty Salon Website Template
 
-  =>  Template Link    :
-  =>  Template License :
+  =>  Template Link    : https://anit-jha88.github.io/salone/
+  =>  Template License : https://anit-jha88.github.io/salone/
 
   =>  Template Author  : HTML Codex
 
-  =>  Author Website   :
+  =>  Author Website   : https://anit-jha88.github.io/salone/
