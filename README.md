@@ -1,9 +1,8 @@
    =>  Template Name    : Salone - Beauty Salon Website Template
 
-  =>  Template Link    : https://htmlcodex.com/beauty-salon-website-template
-
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Template Link    :
+  =>  Template License :
 
   =>  Template Author  : HTML Codex
 
-  =>  Author Website   : https://htmlcodex.com 
+  =>  Author Website   :
