@@ -1,4 +1,4 @@
-   =>  Template Name    : Salone - Beauty Salon Website Template
+   =>  Template Name    : Salone - Beauty Salon Website Template  
 
   =>  Template Link    : https://anit-jha88.github.io/salone/
  
